@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FInmQoVCSm9gAnWacM0TuhKXTLdHpMAQ6++xkOjyC4c=",
+  "Source": "KanbanServer",
+  "BasePath": "_content/KanbanServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
